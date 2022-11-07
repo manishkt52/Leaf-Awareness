@@ -30,3 +30,7 @@ When user wants to contibute information regarding the plants then he/she can su
 ![5](https://github.com/manishkt52/Leaf-Awareness/blob/main/SS/5.PNG)
 
 ![6](https://github.com/manishkt52/Leaf-Awareness/blob/main/SS/6.PNG)
+
+![7](https://github.com/manishkt52/Leaf-Awareness/blob/main/SS/7.PNG)
+
+![8](https://github.com/manishkt52/Leaf-Awareness/blob/main/SS/8.PNG)
